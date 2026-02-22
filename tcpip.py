@@ -1,4 +1,4 @@
-#Author: Alexandre Locci Martins
+#Author: Alexandre L. Martins
 #02/22/2026
 
 import subprocess
@@ -25,3 +25,7 @@ for s in result.stdout.splitlines():
                print(f"IP: {ips} -> Name: [No register]")
            except Exception as e:
                print(f"Error {ips}: {e}")
+
+print(result.stdout)
+print(result.stderr)
+print(result.returncode)
