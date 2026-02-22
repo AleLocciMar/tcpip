@@ -1,6 +1,6 @@
 # 🚀 Python Project: TCP/IP Communications
 
-This repository contains the implementation of communication protocols using the **TCP/IP** stack in Python. The project focuses on [Insert specific goal here, e.g., client-server communication / data streaming].
+This repository contains the implementation of communication protocols using the **TCP/IP** stack in Python.
 
 ## 🛠️ Technologies
 * **Language:** Python 3.x
